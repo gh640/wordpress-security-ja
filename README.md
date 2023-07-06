@@ -95,8 +95,13 @@ WordPress サイトにおけるセキュリティ施策として以下のよう�
 
 ## 参考文献
 
+### WordPress 公式
+
 - [Security – WordPress.org](https://wordpress.org/about/security/)
 - [Hardening WordPress – WordPress.org Documentation](https://wordpress.org/documentation/article/hardening-wordpress/)
 - [Security | Common APIs Handbook | WordPress Developer Resources](https://developer.wordpress.org/apis/security/)
+
+### その他
+
 - [OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
 - [安全なウェブサイトの作り方 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/vuln/websecurity/index.html)
