@@ -104,6 +104,7 @@ WordPress サイトにおけるセキュリティ施策として以下のよう�
 - [Security – WordPress.org](https://wordpress.org/about/security/)
 - [Hardening WordPress – WordPress.org Documentation](https://wordpress.org/documentation/article/hardening-wordpress/)
 - [Security | Common APIs Handbook | WordPress Developer Resources](https://developer.wordpress.org/apis/security/)
+- [Updating WordPress – Documentation](https://wordpress.org/documentation/article/updating-wordpress/)
 
 ### その他
 
